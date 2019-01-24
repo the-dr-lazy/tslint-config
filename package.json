@@ -1,6 +1,6 @@
 {
   "name": "@thebrodmann/tslint-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Yet another TSLint config preset",
   "main": "tslint.json",
   "license": "MIT",
