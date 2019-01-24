@@ -61,7 +61,8 @@
       "check-format",
       "ban-keywords",
       "allow-leading-underscore",
-      "allow-trailing-underscore"
+      "allow-trailing-underscore",
+      "allow-pascal-case"
     ],
     "interface-over-type-literal": false,
     "object-literal-sort-keys": false,
