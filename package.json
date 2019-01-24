@@ -2,8 +2,13 @@
   "name": "@thebrodmann/tslint-config",
   "version": "0.0.0",
   "description": "Yet another TSLint config preset",
-  "main": "index.json",
+  "main": "tslint.json",
   "license": "MIT",
   "repository": "https://github.com/thebrodmann/tslint-config",
-  "author": "Mohammad Hasani <thebrodmann@gmail.com> (https://github.com/thebrodmann)"
+  "author": "Mohammad Hasani <thebrodmann@gmail.com> (https://github.com/thebrodmann)",
+  "dependencies": {
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-config-standard": "^8.0.1"
+  }
 }
